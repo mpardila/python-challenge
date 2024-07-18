@@ -1,0 +1,23 @@
+Last login: Thu Jul 18 14:38:38 on ttys003
+(base) mpa@MBP-de-Maria ~ % conda activate dev
+(dev) mpa@MBP-de-Maria ~ % cd desktop/SMU_Bootcamp/Python/Challenge_3/python-challenge/PyBank
+(dev) mpa@MBP-de-Maria PyBank % ls
+Analysis	Resources	main.py
+(dev) mpa@MBP-de-Maria PyBank % python main.py 
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
+(dev) mpa@MBP-de-Maria PyBank % 
+
+
+
+
+
+
+
+
+
