@@ -9,7 +9,7 @@ with open (budget_csv) as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
     csv_header = next(csvreader)
 
-    # Lists to store data
+    # Lists and variables to store data
     date = []
     pl_running_total = 0
     previous_pl = 0
